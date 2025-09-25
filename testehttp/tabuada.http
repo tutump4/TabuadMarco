@@ -1,0 +1,2 @@
+@url = https://obscure-doodle-q7pwq5p5x6x7f94qv-3000.app.github.dev/api
+GET {{url}}/tabuada?numero=6
